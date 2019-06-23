@@ -1,0 +1,201 @@
+Index,Code,Name,Abbreviation,Focus
+1,908,Soil Science,SOIL SCI,STEM
+2,350,ENGLISH,ENGLISH,LIB_ARTS
+3,351,English as a Second Language,ESL,LIB_ARTS
+4,230,Human Development and Family Studies,HDFS,LIB_ARTS
+5,352,English,ENGL,LIB_ARTS
+6,231,General Business,GEN BUS,LIB_ARTS
+7,232,Accounting and Information Systems,ACCT I S,LIB_ARTS
+8,112,Biological Systems Engineering,BSE,STEM
+9,233,"Finance, Investment and Banking",FINANCE,LIB_ARTS
+10,476,Horticulture,HORT,LIB_ARTS
+11,355,Entomology,ENTOM,STEM
+12,234,Information Systems,INFO SYS,STEM
+13,235,International Business,INTL BUS,LIB_ARTS
+14,236,Management and Human Resources,M H R,LIB_ARTS
+15,237,Marketing,MARKETNG,LIB_ARTS
+16,359,Design Studies,DS,LIB_ARTS
+17,238,Operations and Technology Management,OTM,STEM
+18,239,Real Estate and Urban Land Economics,REAL EST,LIB_ARTS
+19,912,Spanish (Spanish and Portuguese),SPANISH,LIB_ARTS
+20,480,Human Oncology,H ONCOL,LIB_ARTS
+21,360,Environmental Studies - Gaylord Nelson Institute,ENVIR ST,LIB_ARTS
+22,240,Civil and Environmental Engineering,CIV ENGR,STEM
+23,120,Life Sciences Communication,LSC,LIB_ARTS
+24,241,Risk Management and Insurance,R M I,STEM
+25,362,Molecular and Environmental Toxicology Center,M&ENVTOX,STEM
+26,242,Actuarial Science,ACT SCI,STEM
+27,243,TRANSPORTATION AND PUBLIC UTILITIES,TRAN P U,LIB_ARTS
+28,244,Classics,CLASSICS,LIB_ARTS
+29,247,Civil Society and Community Studies,CSCS,LIB_ARTS
+30,490,Industrial and Systems Engineering,I SY E,STEM
+31,370,Family Medicine,FAM MED,LIB_ARTS
+32,250,Communication Arts,COM ARTS,LIB_ARTS
+33,492,INDUSTRIAL RELATIONS,IND REL,LIB_ARTS
+34,130,Agroecology,AGROECOL,LIB_ARTS
+35,252,Communication Sciences and Disorders,CS&D,LIB_ARTS
+36,494,Interdisciplinary Courses (CALS),INTER-AG,LIB_ARTS
+37,132,Agronomy,AGRONOMY,LIB_ARTS
+38,495,Integrated Arts,INTEGART,LIB_ARTS
+39,496,Interdisciplinary Courses (Engineering),INTEREGR,STEM
+40,375,Farm & Industry Short Course,FISC,LIB_ARTS
+41,498,Interdisciplinary Courses (SOHE),INTER-HE,LIB_ARTS
+42,810,Population Health Sciences,POP HLTH,LIB_ARTS
+43,932,Statistics,STAT,STEM
+44,812,PROFESSIONAL ORIENTATION,PRO OR,LIB_ARTS
+45,934,Comparative Biosciences,COMP BIO,STEM
+46,814,Psychiatry,PSYCHIAT,LIB_ARTS
+47,936,Surgery,SURGERY,LIB_ARTS
+48,938,Surgical Sciences,SURG SCI,LIB_ARTS
+49,939,Therapeutic Science (Department of Kinesiology),THER SCI,LIB_ARTS
+50,380,Folklore Program,FOLKLORE,LIB_ARTS
+51,260,Comparative Literature,COMP LIT,LIB_ARTS
+52,140,American Indian Studies,AMER IND,LIB_ARTS
+53,144,Anatomy,ANATOMY,LIB_ARTS
+54,266,Computer Sciences,COMP SCI,STEM
+55,146,Anatomy & Physiology,ANAT&PHY,LIB_ARTS
+56,148,Anesthesiology,ANESTHES,LIB_ARTS
+57,820,Psychology,PSYCH,STEM
+58,942,Theatre and Drama,THEATRE,LIB_ARTS
+59,700,Oncology,ONCOLOGY,LIB_ARTS
+60,943,University Forum,UNIV FOR,LIB_ARTS
+61,944,Urban and Regional Planning,URB R PL,LIB_ARTS
+62,702,Ophthalmology and Visual Sciences,OPHTHALM,LIB_ARTS
+63,703,Patho-Biological Sciences,PATH-BIO,STEM
+64,704,Pathology and Laboratory Medicine,PATH,LIB_ARTS
+65,826,La Follette School of Public Affairs,PUB AFFR,LIB_ARTS
+66,708,Pediatrics,PEDIAT,LIB_ARTS
+67,390,Food Science,FOOD SCI,LIB_ARTS
+68,270,Counseling Psychology,COUN PSY,LIB_ARTS
+69,271,Consumer Science,CNSR SCI,LIB_ARTS
+70,272,Curriculum and Instruction,CURRIC,LIB_ARTS
+71,396,Forest and Wildlife Ecology,F&W ECOL,LIB_ARTS
+72,156,Anthropology,ANTHRO,STEM
+73,952,ANIMAL HEALTH AND BIOMEDICAL SCIENCES,AHABS,STEM
+74,832,Radiology,RADIOL,LIB_ARTS
+75,718,Pharmaceutical Sciences,PHM SCI,LIB_ARTS
+76,168,Art Department,ART,LIB_ARTS
+77,960,WILDLIFE ECOLOGY,WL ECOL,LIB_ARTS
+78,840,Rehabilitation Medicine,RHAB MED,LIB_ARTS
+79,600,Mathematics,MATH,STEM
+80,963,Gender and Women’s Studies,GEN&WS,LIB_ARTS
+81,724,Pharmacology,PHMCOL-M,LIB_ARTS
+82,604,Animal Sciences,AN SCI,LIB_ARTS
+83,726,Pharmacy,PHARMACY,LIB_ARTS
+84,728,Pharmacy Practice,PHM PRAC,LIB_ARTS
+85,292,Dairy Science,DY SCI,LIB_ARTS
+86,295,East Asian Languages and Literature,E ASIAN,LIB_ARTS
+87,296,Economics,ECON,STEM
+88,176,Art Education (Department of Art),ART ED,LIB_ARTS
+89,298,East Asian Area Studies,E A STDS,LIB_ARTS
+90,970,Zoology,ZOOLOGY,STEM
+91,732,Social and Administrative Pharmacy,S&A PHM,LIB_ARTS
+92,612,Mechanical Engineering,M E,STEM
+93,856,Religious Studies,RELIG ST,LIB_ARTS
+94,736,Philosophy,PHILOS,LIB_ARTS
+95,616,Medical Genetics,MD GENET,STEM
+96,180,Art History,ART HIST,LIB_ARTS
+97,184,Asian American Studies,ASIAN AM,LIB_ARTS
+98,185,Asian Languages and Cultures,ASIAN,LIB_ARTS
+99,186,Asian Languages and Cultures: Languages,ASIALANG,LIB_ARTS
+100,188,Astronomy,ASTRON,STEM
+101,740,PHYSICAL EDUC ACTIVITY PROGM,PE ACTIV,LIB_ARTS
+102,741,Dance,DANCE,LIB_ARTS
+103,620,Medical Microbiology and Immunology,M M & I,STEM
+104,742,Kinesiology,KINES,LIB_ARTS
+105,500,Integrated Liberal Studies,ILS,LIB_ARTS
+106,621,Medical Physics,MED PHYS,STEM
+107,864,Community and Environmental Sociology,C&E SOC,STEM
+108,622,Medical Sciences - Medical School,MED SC-M,LIB_ARTS
+109,502,Interdisciplinary Courses (L&S),INTER-LS,LIB_ARTS
+110,623,Medical Sciences - Veterinary Medicine,MED SC-V,LIB_ARTS
+111,745,Physical Therapy,PHY THER,LIB_ARTS
+112,503,Integrated Science,INTEGSCI,STEM
+113,504,International Studies,INTL ST,LIB_ARTS
+114,628,CLINICAL LABORATORY SCIENCE,CLNLABSC,STEM
+115,508,Italian (French and Italian),ITALIAN,LIB_ARTS
+116,192,Microbiology,MICROBIO,STEM
+117,194,Rehabilitation Psychology and Special Education,RP & SE,LIB_ARTS
+118,750,Physician Assistant Program,PHY ASST,LIB_ARTS
+119,872,Scandinavian Studies,SCAND ST,LIB_ARTS
+120,510,Jewish Studies,JEWISH,LIB_ARTS
+121,632,Medicine,MEDICINE,LIB_ARTS
+122,754,Physics,PHYSICS,STEM
+123,512,Journalism and Mass Communication,JOURN,LIB_ARTS
+124,875,Science and Technology Studies,STS,STEM
+125,633,Medieval Studies,MEDIEVAL,LIB_ARTS
+126,636,Materials Science and Engineering,M S & E,STEM
+127,758,Biomolecular Chemistry,BMOLCHEM,STEM
+128,ZZZ,Registrar-Administrative Use,AdminUse,LIB_ARTS
+129,640,Atmospheric and Oceanic Sciences,ATM OCN,STEM
+130,882,Senior Medical Program,SR MED,LIB_ARTS
+131,520,Landscape Architecture,LAND ARC,LIB_ARTS
+132,762,Physiology,PHYSIOL,STEM
+133,521,Languages and Cultures of Asia,LCA,LIB_ARTS
+134,400,French (French and Italian),FRENCH,LIB_ARTS
+135,522,Languages and Cultures of Asia - Languages,LCA LANG,LIB_ARTS
+136,644,Military Science,MIL SCI,LIB_ARTS
+137,524,Latin (Classics),LATIN,LIB_ARTS
+138,766,Plant Pathology,PL PATH,STEM
+139,888,Slavic (Slavic Languages),SLAVIC,LIB_ARTS
+140,525,"Latin American, Caribbean, and Iberian Studies",LACIS,LIB_ARTS
+141,528,Law,LAW,LIB_ARTS
+142,650,Molecular Biology,MOL BIOL,STEM
+143,896,Social Work,SOC WORK,LIB_ARTS
+144,412,Genetics,GENETICS,STEM
+145,535,Legal Studies,LEGAL ST,LIB_ARTS
+146,778,Political Science,POLI SCI,LIB_ARTS
+147,416,Geography,GEOG,STEM
+148,418,Geological Engineering,G L E,STEM
+149,660,Music,MUSIC,LIB_ARTS
+150,782,Portuguese (Spanish and Portuguese),PORTUG,LIB_ARTS
+151,420,Geoscience,GEOSCI,STEM
+152,664,Music-Performance,MUS PERF,LIB_ARTS
+153,544,Library and Information Studies,L I S,LIB_ARTS
+154,424,German,GERMAN,LIB_ARTS
+155,425,"German, Nordic, and Slavic",GNS,LIB_ARTS
+156,305,Educational Leadership and Policy Analysis,ELPA,LIB_ARTS
+157,428,Greek (Classics),GREEK,LIB_ARTS
+158,550,Linguistics,LINGUIS,LIB_ARTS
+159,672,Naval Science,NAV SCI,LIB_ARTS
+160,551,Literature in Translation,LITTRANS,LIB_ARTS
+161,310,Educational Policy Studies,ED POL,LIB_ARTS
+162,676,Neurology,NEUROL,LIB_ARTS
+163,315,Educational Psychology,ED PSYCH,STEM
+164,436,Obstetrics and Gynecology,OBS&GYN,LIB_ARTS
+165,678,Neurological Surgery,NEURSURG,LIB_ARTS
+166,681,Neuroscience,NEURODPT,LIB_ARTS
+167,440,HEBREW,HEBR ST,LIB_ARTS
+168,682,Neuroscience Training Program,NTP,LIB_ARTS
+169,320,Electrical and Computer Engineering,E C E,STEM
+170,441,Hebrew-Biblical,HEBR-BIB,LIB_ARTS
+171,684,Nuclear Engineering,N E,STEM
+172,200,Biochemistry,BIOCHEM,STEM
+173,442,Hebrew-Modern,HEBR-MOD,LIB_ARTS
+174,SAB,International Academic Programs - Study Abroad,STDYABRD,LIB_ARTS
+175,205,Biology,BIOLOGY,STEM
+176,448,History,HISTORY,LIB_ARTS
+177,206,Biology Core Curriculum,BIOCORE,STEM
+178,207,Biomedical Engineering,B M E,STEM
+179,208,Botany,BOTANY,STEM
+180,691,Collaborative Nursing Program,CNP,LIB_ARTS
+181,692,Nursing,NURSING,LIB_ARTS
+182,330,Emergency Medicine,EMER MED,LIB_ARTS
+183,694,Nutritional Sciences,NUTR SCI,LIB_ARTS
+184,452,Medical History and Bioethics,MED HIST,LIB_ARTS
+185,210,Biostatistics and Medical Informatics,B M I,STEM
+186,695,Occupational Therapy (Department of Kinesiology),OCC THER,LIB_ARTS
+187,456,History of Science,HIST SCI,LIB_ARTS
+188,217,Cell and Regenerative Biology,CRB,STEM
+189,220,Chemical and Biological Engineering,CBE,STEM
+190,464,FAMILY AND CONSUMER COMMUNICATIONS,FAM COM,LIB_ARTS
+191,102,Air Force Aerospace Studies,A F AERO,LIB_ARTS
+192,224,Chemistry,CHEM,STEM
+193,346,Engineering Mechanics and Astronautics,E M A,STEM
+194,104,African Languages and Literature,AFRICAN,LIB_ARTS
+195,347,Engineering Physics,E P,STEM
+196,348,Engineering Professional Development,E P D,STEM
+197,106,Afro-American Studies,AFROAMER,LIB_ARTS
+198,228,Chicana/o and Latina/o Studies,CHICLA,LIB_ARTS
+199,108,Agricultural and Applied Economics,A A E,STEM
+200,900,Sociology,SOC,STEM
